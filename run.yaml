@@ -11,6 +11,8 @@ spec:
       value: "https://github.com/ibm-developer-skills-network/zntwk-tax_calculator.git"
     - name: branch
       value: "main"
+    - name: revision
+      value: "main" 
     - name: app-name
       value: "tax-calculator"
   workspaces:
